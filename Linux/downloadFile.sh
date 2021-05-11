@@ -1,1 +1,2 @@
 ls -lhrt
+ls -al
